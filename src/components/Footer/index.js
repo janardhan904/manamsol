@@ -42,7 +42,7 @@ const Footer = ({ t }) => {
                     `Do you have any question regarding the project? Feel free to reach out.`
                   )}
                 </S.Para>
-                <a href="hr@manamsolutions.com">
+                <a href="mailto:hr@manamsolutions.com">
                   <S.Chat>{t(`Let's Chat`)}</S.Chat>
                 </a>
               </Col>
